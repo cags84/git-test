@@ -1,1 +1,19 @@
 esto es para probar las ramas
+
+# Creamos la rama con el siguiente comando
+> git checkout -n <nombre-rama>
+
+# Para ver la rama en que estoy
+> git branch
+
+# Verificamos si tenemos algo al índice
+> git status
+
+# Agrenamos al índice o stateg los archivos
+> git add .
+
+# Hacemos el commit respectivo
+> git commit -m 'Esta es la descripción del commit'
+
+# Hacemos push de la rama
+> git push -u origin rama-1
