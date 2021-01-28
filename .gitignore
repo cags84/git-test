@@ -1,0 +1,7 @@
+# ignora el archivo development.log
+/mi_carpeta/development.log
+
+# patrones
+*.log
+
+# Forma de crear un comentario
